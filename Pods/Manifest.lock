@@ -1,0 +1,15 @@
+PODS:
+  - EZSwiftExtensions (1.5)
+  - Track (1.2.2)
+
+DEPENDENCIES:
+  - EZSwiftExtensions
+  - Track
+
+SPEC CHECKSUMS:
+  EZSwiftExtensions: fe78d7d4ac34f5c8c36415d4acee49ba67c9732a
+  Track: 70d60731eb5f77aecfa624b3e44d525811155bfc
+
+PODFILE CHECKSUM: 3455a1182b7243a4dd8997fcec8d9fc230e4e842
+
+COCOAPODS: 1.0.1
